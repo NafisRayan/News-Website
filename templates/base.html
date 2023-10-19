@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{% block title %}Hadar News Website{% endblock %}</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <header>
+        <h1><a href="{{ url_for('home') }}">Hadar News Website</a></h1>
+        <nav>
+            <ul>
+                <li><a href="{{ url_for('home') }}">Home</a></li>
+                <!-- <li><a href="{{ url_for('login') }}">Login</a></li> -->
+                <li><a href="{{ url_for('user_profile') }}">Profile</a></li>
+                <!-- <li><a href="{{ url_for('admin_profile') }}">Admin Profile</a></li> -->
+                <li><a href="{{ url_for('article_type', article_type='US') }}">US</a></li>
+                <li><a href="{{ url_for('article_type', article_type='World') }}">World</a></li>
+                <li><a href="{{ url_for('article_type', article_type='Politics') }}">Politics</a></li>
+                <li><a href="{{ url_for('article_type', article_type='Business') }}">Business</a></li>
+                <li><a href="{{ url_for('article_type', article_type='Opinion') }}">Opinion</a></li>
+                <li><a href="{{ url_for('article_type', article_type='Health') }}">Health</a></li>
+                <li><a href="{{ url_for('article_type', article_type='Entertainment') }}">Entertainment</a></li>
+                <li><a href="{{ url_for('article_type', article_type='Style') }}">Style</a></li>
+                <li><a href="{{ url_for('article_type', article_type='Travel') }}">Travel</a></li>                
+            </ul>
+        </nav>
+    </header>
+    <main>
+        {% block content %}{% endblock %}
+    </main>
+</body>
+</html>

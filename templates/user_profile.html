@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <section class="user-profile">
+        <h2>User Profile</h2>
+        <br/>
+        <p>Welcome, {{ user.username }}!</p>
+        
+        <!-- Display user information -->
+        <div class="user-info">
+            <br/>
+            <p><strong>Username:</strong> {{ user.username }}</p>
+            <br/>
+            <p><strong>Email:</strong> {{ user.email }}</p>
+            <br/>
+            
+            <!-- Add more user information as needed -->
+        </div>
+        
+        <!-- Option to edit user profile -->
+        <a href="{{ url_for('edit_profile') }}" class="btn btn-primary">Edit Profile</a>
+
+        <!-- Logout button -->
+        <a href="{{ url_for('logout') }}" class="btn btn-danger">Logout</a>
+    </section>
+{% endblock %}

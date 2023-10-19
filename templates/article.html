@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <article>
+        <h2>{{ article.title }}</h2>
+        <p>{{ article.content }}</p>
+    </article>
+    <!-- <section class="comments">
+        <h3>Comments</h3>
+        <ul>
+            {% for comment in comments %}
+                <li class="comment">{{ comment.text }}</li>
+            {% endfor %}
+        </ul>
+    </section> -->
+    
+    <!-- Form for posting comments -->
+    <section class="comment-form">
+        <h3>Add a Comment</h3>
+        <form method="post"> 
+            
+            <textarea name="comment" placeholder="Your comment"></textarea>
+            <input type="submit" value="Post Comment">
+        </form>
+    </section>
+    <!-- Add a form to post comments here -->
+</section>
+{% endblock %}
+<!-- action="{{ url_for('post_comment', article_id=article.id) }} -->

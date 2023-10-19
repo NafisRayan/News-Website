@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <section class="edit-profile">
+        <h2>Edit Profile</h2>
+        <form method="post">
+            <div class="form-group">
+                <label for="username">Username:</label>
+                <input type="text" name="username" id="username" value="{{ user.username }}" required>
+            </div>
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" name="email" id="email" value="{{ user.email }}" required>
+            </div>
+            
+            <!-- Add more input fields for other profile details if needed -->
+
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Save Changes</button>
+            </div>
+        </form>
+        
+        <a href="{{ url_for('user_profile') }}" class="btn btn-secondary">Cancel</a>
+    </section>
+{% endblock %}

@@ -1,0 +1,244 @@
+[
+    {
+        'id': 1,
+        'title': "New COVID-19 variant discovered in South Africa",
+        'content': "Scientists in South Africa have discovered a new COVID-19 variant that has a large number of mutations and appears to be more transmissible than previous variants. The new variant, called B.1.1.529, has been detected in several countries and has prompted travel restrictions and concerns about vaccine efficacy.",
+        'popularity': 100,
+        'type': "US",
+        'link': "https://www.cnn.com/2021/11/25/africa/south-africa-covid-variant-intl-hnk/index.html"
+    },
+    {
+        'id': 2,
+        'title': "Climate change: COP26 ends with new pledges but few concrete actions",
+        'content': "The United Nations Climate Change Conference, also known as COP26, has ended with new pledges from countries to reduce greenhouse gas emissions, but few concrete actions. The conference was criticized for not doing enough to address the urgent need to reduce emissions and limit global warming. Activists and experts are calling for more ambitious action to address the climate crisis.",
+        'popularity': 75,
+        'type': "World",
+        'link': "https://www.bbc.com/news/science-environment-59239354"
+    },
+    {
+        'id': 3,
+        'title': "Biden signs $1.2 trillion infrastructure bill into law",
+        'content': "President Joe Biden has signed a $1.2 trillion infrastructure bill into law, which includes funding for roads, bridges, public transit, and broadband internet. The bill is expected to create millions of jobs and improve the country's infrastructure. The signing of the bill is being hailed as a major achievement for the Biden administration.",
+        'popularity': 120,
+        'type': "Politics",
+        'link': "https://www.politico.com/news/2021/11/15/biden-signs-infrastructure-bill-523947"
+    },
+    {
+        'id': 4,
+        'title': "Facebook whistleblower testifies before Congress",
+        'content': "Frances Haugen, a former Facebook employee turned whistleblower, has testified before Congress about the company's role in spreading misinformation and harming democracy. Haugen provided internal documents and research that showed Facebook knew about the negative effects of its platform but did not take action to address them. The testimony has renewed calls for greater regulation of social media companies.",
+        'popularity': 90,
+        'type': "Business",
+        'link': "https://www.wsj.com/articles/facebook-whistleblower-frances-haugen-testifies-before-senate-11635720000"
+    },
+    {
+        'id': 5,
+        'title': "Opinion: The Omicron variant is a warning to the world",
+        'content': "The discovery of the new Omicron variant of COVID-19 has raised concerns about the ongoing pandemic and the need for continued vigilance. In this opinion piece, the author argues that the new variant is a warning to the world that the pandemic is far from over and that we must continue to take measures to protect ourselves and others. The author calls for increased investment in public health and global cooperation to address the pandemic.",
+        'popularity': 110,
+        'type': "Opinion",
+        'link': "https://www.nytimes.com/2021/11/29/opinion/omicron-variant-covid.html"
+    },
+    {
+        'id': 6,
+        'title': "New study finds link between sleep and mental health",
+        'content': "A new study has found a link between sleep and mental health, suggesting that poor sleep quality may be a risk factor for depression and anxiety. The study, which analyzed data from over 40,000 participants, found that people who reported poor sleep quality were more likely to experience symptoms of depression and anxiety. The findings highlight the importance of getting enough sleep for mental health.",
+        'popularity': 80,
+        'type': "Health",
+        'link': "https://www.healthline.com/health-news/poor-sleep-quality-linked-to-depression-and-anxiety"
+    },
+    {
+        'id': 7,
+        'title': "Marvel's 'Eternals' tops box office in opening weekend",
+        'content': "Marvel's latest superhero movie, 'Eternals,' has topped the box office in its opening weekend, grossing over $71 million in the United States and Canada. The movie, which features a diverse cast and explores themes of identity and purpose, has received mixed reviews from critics but has been praised for its ambition and scope. The success of 'Eternals' is seen as a positive sign for the future of the Marvel Cinematic Universe.",
+        'popularity': 130,
+        'type': "Entertainment",
+        'link': "https://www.tmz.com/2021/11/07/eternals-box-office-opening-weekend-marvel/"
+    },
+    {
+        'id': 8,
+        'title': "Fall fashion trends for 2021",
+        'content': "As the weather gets cooler, fashion trends are shifting to reflect the changing seasons. This article highlights some of the top fall fashion trends for 2021, including oversized coats, chunky boots, and statement jewelry. The trends are inspired by a mix of vintage and modern styles, and are designed to be both comfortable and stylish.",
+        'popularity': 70,
+        'type': "Style",
+        'link': "https://www.vogue.com/article/fall-2021-fashion-trends"
+    },
+    {
+        'id': 9,
+        'title': "Travel restrictions ease as COVID-19 cases decline",
+        'content': "As COVID-19 cases continue to decline in many parts of the world, travel restrictions are beginning to ease. This article provides an overview of the latest travel restrictions and requirements for various countries, including information on vaccination and testing requirements. The article also includes tips for safe travel during the pandemic.",
+        'popularity': 105,
+        'type': "Travel",
+        'link': "https://www.lonelyplanet.com/articles/travel-restrictions-covid-19-update"
+    },
+    {
+        'id': 10,
+        'title': "New York City mandates COVID-19 vaccines for private sector workers",
+        'content': "New York City has become the first city in the United States to mandate COVID-19 vaccines for private sector workers. The mandate, which applies to all private sector employees in the city, is aimed at increasing vaccination rates and reducing the spread of the virus. The move has been praised by public health experts but has also faced criticism from some business groups.",
+        'popularity': 95,
+        'type': "US",
+        'link': "https://www.cnn.com/2021/11/29/us/new-york-city-vaccine-mandate-private-sector-workers/index.html"
+    },
+    {
+        'id': 11,
+        'title': "China's economy slows down amid power shortages and property market woes",
+        'content': "China's economy has slowed down amid power shortages and a slump in the property market. The country's GDP growth rate for the third quarter of 2021 was 4.9%, down from 7.9% in the same period last year. The slowdown is being attributed to a range of factors, including the government's efforts to reduce carbon emissions and the ongoing property market crisis.",
+        'popularity': 140,
+        'type': "World",
+        'link': "https://www.bbc.com/news/business-59094729"
+    },
+    {
+        'id': 12,
+        'title': "Supreme Court hears arguments in major abortion case",
+        'content': "The United States Supreme Court has heard arguments in a major abortion case that could have significant implications for reproductive rights. The case, Dobbs v. Jackson Women's Health Organization, centers on a Mississippi law that bans most abortions after 15 weeks of pregnancy. The case is being closely watched by both sides of the abortion debate and could lead to a significant shift in abortion policy.",
+        'popularity': 85,
+        'type': "Politics",
+        'link': "https://www.politico.com/news/2021/12/01/supreme-court-abortion-case-523947"
+    },
+    {
+        'id': 13,
+        'title': "Apple unveils new MacBook Pro with M1 Pro and M1 Max chips",
+        'content': "Apple has unveiled a new MacBook Pro with M1 Pro and M1 Max chips, which are designed to offer improved performance and battery life. The new MacBook Pro also features a new design with a notch at the top of the screen and a new keyboard with a Touch ID sensor. The new MacBook Pro is being hailed as a major upgrade for Apple's laptop lineup.",
+        'popularity': 150,
+        'type': "Business",
+        'link': "https://www.wsj.com/articles/apple-macbook-pro-m1-pro-m1-max-review-11636416000"
+    },
+    {
+        'id': 14,
+        'title': "Opinion: The case for vaccine mandates",
+        'content': "As COVID-19 cases continue to rise in many parts of the world, some governments and businesses are implementing vaccine mandates to increase vaccination rates and reduce the spread of the virus. In this opinion piece, the author argues that vaccine mandates are necessary to protect public health and prevent further outbreaks. The author cites evidence that shows vaccines are safe and effective, and calls on governments and businesses to take action to protect their communities.",
+        'popularity': 65,
+        'type': "Opinion",
+        'link': "https://www.nytimes.com/2021/11/30/opinion/vaccine-mandates-covid.html"
+    },
+    {
+        'id': 15,
+        'title': "New study finds link between air pollution and dementia",
+        'content': "A new study has found a link between air pollution and dementia, suggesting that exposure to air pollution may increase the risk of developing dementia later in life. The study, which analyzed data from over 130,000 people, found that people who lived in areas with high levels of air pollution were more likely to develop dementia than those who lived in areas with lower levels of pollution. The findings highlight the need for greater efforts to reduce air pollution and protect public health.",
+        'popularity': 125,
+        'type': "Health",
+        'link': "https://www.bbc.com/news/health-59239408"
+    },
+    {
+        'id': 16,
+        'title': "Netflix announces new series based on 'The Three-Body Problem'",
+        'content': "Netflix has announced a new series based on the popular science fiction novel 'The Three-Body Problem.' The series, which will be produced by Game of Thrones creators David Benioff and D.B. Weiss, is expected to be a major new addition to the streaming service's lineup. The announcement has generated excitement among fans of the book and the science fiction genre.",
+        'popularity': 60,
+        'type': "Entertainment",
+        'link': "https://www.cnn.com/2021/11/30/entertainment/three-body-problem-netflix-series-intl-hnk/index.html"
+    },
+    {
+        'id': 17,
+        'title': "The rise of sustainable fashion",
+        'content': "Sustainable fashion is becoming increasingly popular as consumers become more aware of the environmental impact of the fashion industry. This article explores the rise of sustainable fashion and highlights some of the top sustainable fashion brands and initiatives. The article also provides tips for consumers who want to make more sustainable fashion choices.",
+        'popularity': 145,
+        'type': "Style",
+        'link': "https://www.vogue.com/article/sustainable-fashion-brands"
+    },
+    {
+        'id': 18,
+        'title': "Travel industry sees rebound as COVID-19 restrictions ease",
+        'content': "As COVID-19 restrictions continue to ease in many parts of the world, the travel industry is seeing a rebound in demand. This article provides an overview of the latest travel trends and highlights some of the top destinations for travelers. The article also includes tips for safe travel during the pandemic.",
+        'popularity': 55,
+        'type': "Travel",
+        'link': "https://www.lonelyplanet.com/articles/travel-trends-covid-19-update"
+    },
+    {
+        'id': 19,
+        'title': "New study finds link between social media use and mental health",
+        'content': "A new study has found a link between social media use and poor mental health, suggesting that excessive use of social media may be harmful to mental well-being. The study, which analyzed data from over 10,000 people, found that people who spent more time on social media were more likely to experience symptoms of depression and anxiety. The findings highlight the need for greater awareness of the potential risks of social media use.",
+        'popularity': 120,
+        'type': "US",
+        'link': "https://www.npr.org/2021/11/30/1050119477/social-media-use-linked-to-poor-mental-health-in-new-study"
+    },
+    {
+        'id': 20,
+        'title': "New report highlights impact of climate change on global food supply",
+        'content': "A new report has highlighted the impact of climate change on the global food supply, warning that rising temperatures and extreme weather events are putting food security at risk. The report, which was produced by the United Nations and other organizations, calls for urgent action to address the climate crisis and protect the world's food supply. The findings are being widely discussed by experts and policymakers around the world.",
+        'popularity': 50,
+        'type': "World",
+        'link': "https://www.theguardian.com/environment/2021/nov/30/climate-change-extreme-weather-food-supply-un-report"
+    },
+    {
+        'id': 21,
+        'title': "Supreme Court hears arguments in major voting rights case",
+        'content': "The United States Supreme Court has heard arguments in a major voting rights case that could have significant implications for democracy and the right to vote. The case, Brnovich v. Democratic National Committee, centers on two Arizona voting laws that critics say disproportionately affect minority voters. The case is being closely watched by voting rights advocates and could lead to a significant shift in voting rights policy.",
+        'popularity': 135,
+        'type': "Politics",
+        'link': "https://www.npr.org/2021/12/01/1050120383/supreme-court-voting-rights-arizona"
+    },
+    {
+        'id': 22,
+        'title': "Facebook to change its name and focus on the metaverse",
+        'content': "Facebook has announced that it will change its name to reflect its focus on the metaverse, a virtual world that combines elements of gaming, social media, and augmented reality. The move is part of a broader effort by the company to shift its focus away from traditional social media and toward new technologies. The announcement has generated significant buzz and speculation about the future of the company and the metaverse.",
+        'popularity': 45,
+        'type': "Business",
+        'link': "https://www.wsj.com/articles/facebook-metaverse-name-change-11634712000"
+    },
+    {
+        'id': 23,
+        'title': "Opinion: The case for investing in mental health",
+        'content': "As the COVID-19 pandemic continues to take a toll on mental health around the world, some experts are calling for greater investment in mental health services and support. In this opinion piece, the author argues that investing in mental health is not only the right thing to do, but also makes economic sense. The author cites evidence that shows the economic benefits of investing in mental health, and calls on governments and businesses to take action to support mental health.",
+        'popularity': 130,
+        'type': "Opinion",
+        'link': "https://www.nytimes.com/2021/11/29/opinion/mental-health-investment-covid.html"
+    },
+    {
+        'id': 24,
+        'title': "New study finds link between screen time and sleep problems in children",
+        'content': "A new study has found a link between screen time and sleep problems in children, suggesting that excessive screen time may be harmful to children's sleep quality. The study, which analyzed data from over 1,000 children, found that children who spent more time on screens were more likely to experience sleep problems such as difficulty falling asleep and waking up during the night. The findings highlight the need for parents to monitor their children's screen time and promote healthy sleep habits.",
+        'popularity': 40,
+        'type': "Health",
+        'link': "https://www.bbc.com/news/health-59239409"
+    },
+    {
+        'id': 25,
+        'title': "New study finds link between music and happiness",
+        'content': "A new study has found a link between music and happiness, suggesting that listening to music can have a positive effect on mood and well-being. The study, which surveyed over 10,000 people, found that people who listened to music regularly reported higher levels of happiness and life satisfaction than those who did not. The findings highlight the potential benefits of music for mental health and well-being.",
+        'popularity': 115,
+        'type': "Entertainment",
+        'link': "https://www.npr.org/2021/11/30/1050119475/listening-to-music-can-boost-happiness-and-life-satisfaction-study-finds"
+    },
+    {
+        'id': 26,
+        'title': "The rise of sustainable fashion",
+        'content': "Sustainable fashion is becoming increasingly popular as consumers become more aware of the environmental impact of the fashion industry. This article explores the rise of sustainable fashion and highlights some of the top sustainable fashion brands and initiatives. The article also provides tips for consumers who want to make more sustainable fashion choices.",
+        'popularity': 35,
+        'type': "Style",
+        'link': "https://www.vogue.com/article/sustainable-fashion-brands"
+    },
+    {
+        'id': 27,
+        'title': "The best places to travel in 2022",
+        'content': "As the world begins to reopen after the COVID-19 pandemic, many people are eager to start traveling again. This article highlights some of the best places to travel in 2022, including destinations that are off the beaten path and offer unique experiences. The article also includes tips for safe and responsible travel during the pandemic.",
+        'popularity': 120,
+        'type': "Travel",
+        'link': "https://www.lonelyplanet.com/articles/best-places-to-travel-2022"
+    },
+    {
+        'id': 28,
+        'title': "Supreme Court hears arguments in major abortion case",
+        'content': "The United States Supreme Court has heard arguments in a major abortion case that could have significant implications for reproductive rights. The case, Dobbs v. Jackson Women's Health Organization, centers on a Mississippi law that bans most abortions after 15 weeks of pregnancy. The case is being closely watched by advocates on both sides of the abortion debate and could lead to a significant shift in abortion policy.",
+        'popularity': 30,
+        'type': "US",
+        'link': "https://www.npr.org/2021/12/01/1050120384/supreme-court-abortion-case-mississippi"
+    },
+    {
+        'id': 29,
+        'title': "New report highlights impact of climate change on global food supply",
+        'content': "A new report has highlighted the impact of climate change on the global food supply, warning that rising temperatures and extreme weather events are putting food security at risk. The report, which was produced by the United Nations and other organizations, calls for urgent action to address the climate crisis and protect the world's food supply. The findings are being widely discussed by experts and policymakers around the world.",
+        'popularity': 25,
+        'type': "World",
+        'link': "https://www.bbc.com/news/science-environment-59239405"
+    },
+    {
+        'id': 30,
+        'title': "SpaceX launches new batch of Starlink satellites",
+        'content': "SpaceX has launched a new batch of Starlink satellites as part of its plan to create a global satellite internet network. The latest launch, which took place from the Kennedy Space Center in Florida, included 53 Starlink satellites. The growing Starlink constellation aims to provide high-speed internet access to underserved and remote areas around the world.",
+        'popularity': 110,
+        'type': "Science",
+        'link': "https://www.cnbc.com/2021/12/01/spacex-launches-starlink-satellites-on-falcon-9-rocket.html"
+    }
+]
+
+# You now have a list of 30 articles in Python dictionary format.

@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <section class="articles">
+        <h2>{{ article_type }} Articles</h2>
+        <div class="article-list">
+            {% for article in articles %}
+                <div class="article">
+                    <h3>{{ article.title }}</h3>
+                    <p>{{ article.content }}</p>
+                    <a href="{{ url_for('article', article_id=article.id) }}">Read more</a>
+                </div>
+            {% endfor %}
+        </div>
+    </section>
+{% endblock %}
